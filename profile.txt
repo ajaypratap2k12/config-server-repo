@@ -1,0 +1,7 @@
+Experienced Java Full Stack Developer with expertise in designing, developing, and deploying enterprise applications. Skilled in Java, Spring Boot, Angular, and PL/SQL, with a strong understanding of RESTful web services. Proficient in building secure REST endpoints, implementing business logic, and configuring repository layers. Has knowledge of SOAP endpoints and can work on them if required. 
+
+Possesses knowledge of microservice architecture and event-driven architecture using Apache Kafka. Has an understanding of containerization tools like Docker and container orchestration tools like Kubernetes and can work with them as required. Actively involved in application deployment on DEV and SIT environments.
+
+On the frontend, experienced in Angular, designing user interfaces as per business requirements, and integrating REST APIs for data consumption. Additionally, engaged in code reviews, writing JUnit test cases for unit testing, and preparing releases for deployment.
+
+With a solid background in web development across Banking, Life Sciences, and Insurance domains, coupled with AWS certification, brings a comprehensive approach to full-stack development and application architecture.
